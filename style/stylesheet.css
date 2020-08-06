@@ -1,5 +1,5 @@
 html{
-    height: 100%;
+    height: 100vh;
 }
 body{
     min-height: 100vh;
@@ -9,6 +9,7 @@ body{
 }
 #background{
 	min-height: 100vh;
+    max-height: 100vh;
 	background: url("../media/animal-4855514_1920.jpg")
 		no-repeat;
 	background-size: cover;
